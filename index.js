@@ -1,3 +1,3 @@
-function boardMember() {
-  
+function BoardMember() {
+
 }
